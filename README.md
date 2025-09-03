@@ -13,12 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- ###Laporan Tugas Practikum
-| NO  | Tgl  | Praktikum ke | Topik | Laporan | Repo |
-| :------------ |:---------------:| -----:|
-|    1   | 03-09-2025 | 01 | Pengenalan Mobile Progreming dan Setup Lingkungan|  | | |
+### Laporan Tugas Praktikum
 
-                
-----
+| NO | Tgl       | Praktikum ke | Topik                                           | Laporan | Repo |
+|----|-----------|--------------|-------------------------------------------------|---------|------|
+| 1  | 03-09-2025 | 01           | Pengenalan Mobile Programming dan Setup Lingkungan |         |      |
 
 
