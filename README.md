@@ -18,5 +18,6 @@ Here are some ideas to get you started:
 | NO | Tgl       | Praktikum ke | Topik                                           | Laporan | Repo |
 |----|-----------|--------------|-------------------------------------------------|---------|------|
 | 1  | 03-09-2025 | 01           | Pengenalan Mobile Programming dan Setup Lingkungan |    [Laprak](https://docs.google.com/document/d/1rMuLcZ2btjOz-Xs88-DaUfo3lA_gFCYfNRGCv-ZF7XY/edit?tab=t.0) |    [Link Github](https://github.com/05rahmatulloh/Laprak)  |
+| 2  | 03-09-2025 | 01           | Widget Row dan Column |    [Laprak](https://docs.google.com/document/d/1rMuLcZ2btjOz-Xs88-DaUfo3lA_gFCYfNRGCv-ZF7XY/edit?tab=t.0) |    [Link Github](https://github.com/05rahmatulloh/Laprak)  |
 
 
