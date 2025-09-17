@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 |----|-----------|--------------|-------------------------------------------------|---------|------|
 | 1  | 03-09-2025 | 01           | Pengenalan Mobile Programming dan Setup Lingkungan |    [Laprak](https://drive.google.com/file/d/1UcEfyTKExmufJu0IhxjVCN1XU9bXd7gt/view?usp=drive_link)  |[Github](https://github.com/05rahmatulloh/Laprak) |
 | 2  | 03-09-2025 | 01           | Widget Row dan Column |    [Laprak](https://drive.google.com/file/d/1epdUmJsxSEEk4wTG-XuqF-pyo51BYROr/view?usp=drive_link) |    [Link Github](https://github.com/05rahmatulloh/Laprak/tree/laprak2) |
-|  | 10-09-2025 |                |                       |    [Laprak](https://drive.google.com/file/d/1epdUmJsxSEEk4wTG-XuqF-pyo51BYROr/view?usp=drive_link) |    [Link Github](https://github.com/05rahmatulloh/Laprak/tree/modul4) |
-|   | 10-09-2025 |              |                     |    [Laprak](https://drive.google.com/file/d/1epdUmJsxSEEk4wTG-XuqF-pyo51BYROr/view?usp=drive_link) |    [Link Github](https://github.com/05rahmatulloh/Laprak/tree/modul4) |
+| 3 | 10-09-2025 | 02             |                       |    |    [Link Github](https://github.com/05rahmatulloh/Laprak/tree/modul4) |
+|   | 10-09-2025 | 02           |                     |     |    [Link Github](https://github.com/05rahmatulloh/Laprak/tree/modul4) |
 
