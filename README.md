@@ -16,8 +16,8 @@
 | 7 | 24-09-2025 | 04             |         Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route           | [laprak7](https://drive.google.com/file/d/1PBjwf6OOwrB1rNA3FJnzLDTw_ggyUyx3/view?usp=drive_link) |    [Link Github](https://github.com/05rahmatulloh/Laprak/tree/modul4) |
 | 8 | 24-09-2025 | 04           |          Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route           | [laprak8](https://drive.google.com/file/d/1TP12hDp0Xbp6jXqR_1F_2FKZqxXs5XBD/view?usp=drive_link)    |    [Link Github](https://github.com/05rahmatulloh/Laprak/tree/modul4) |
 | 9 | 01-10-2025 | 05           |        StatefulWidget             |  [Laprak9](https://drive.google.com/file/d/1pWwCIojM7ecy6jPMs_NJwS4kO6u1UVTn/view?usp=drive_link)   |    [Link Github](https://github.com/05rahmatulloh/Laprak/tree/all) |
-| 10 | 08-10-2025 | 06           |        Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter             |     |    [Link Github](https://github.com/05rahmatulloh/Laprak/tree/modul4) |
-| 11 |  | 07           |        Manajemen State dengan GetX             |    |    [Link Github](https://github.com/05rahmatulloh/Laprak/tree/all) |
+| 10 | 08-10-2025 | 06           |        Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter             |  [Laprak10](https://drive.google.com/file/d/1jwIyNmoA54GZI5rm-vGIVMb2NV73icbG/view?usp=drive_link)   |    [Link Github](https://github.com/05rahmatulloh/Laprak/tree/all) |
+| 11 |  | 07           |        Manajemen State dengan GetX             |  []  |    [Link Github](https://github.com/05rahmatulloh/Laprak/tree/all) |
 | 12 |  | 08           |        UTS             |     |    [Link Github](https://github.com/05rahmatulloh/Laprak/tree/all) |\
 | 12 | 05/11/2025 | 08           |        	Akses Lokasi dengan GPS di Flutter             |  [Laprak13](https://drive.google.com/file/d/1UEmID0icD7bg-s4Zj5nmKfq3CTQXyF67/view?usp=drive_link)   |    [Link Github](https://github.com/05rahmatulloh/Laprak/tree/all) |
 
