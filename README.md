@@ -19,5 +19,6 @@
 | 10 | 08-10-2025 | 06           |        Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter             |  [Laprak10](https://drive.google.com/file/d/1jwIyNmoA54GZI5rm-vGIVMb2NV73icbG/view?usp=drive_link)   |    [Link Github](https://github.com/05rahmatulloh/Laprak/tree/all) |
 | 11 |  | 07           |        Manajemen State dengan GetX             |  []  |    [Link Github](https://github.com/05rahmatulloh/Laprak/tree/all) |
 | 12 |  | 08           |        UTS             |     |    [Link Github](https://github.com/05rahmatulloh/Laprak/tree/all) |\
-| 12 | 05/11/2025 | 08           |        	Akses Lokasi dengan GPS di Flutter             |  [Laprak13](https://drive.google.com/file/d/1UEmID0icD7bg-s4Zj5nmKfq3CTQXyF67/view?usp=drive_link)   |    [Link Github](https://github.com/05rahmatulloh/Laprak/tree/all) |
+| 13 | 05/11/2025 | 08           |        	Akses Lokasi dengan GPS di Flutter             |  [Laprak13](https://drive.google.com/file/d/1UEmID0icD7bg-s4Zj5nmKfq3CTQXyF67/view?usp=drive_link)   |    [Link Github](https://github.com/05rahmatulloh/Laprak/tree/all) |
+| 14 | 05/11/2025 | 08           |        	Operasi CRUD          |  |    [Link Github](https://github.com/05rahmatulloh/Laprak/tree/all) |
 
