@@ -20,5 +20,5 @@
 | 11 |  | 07           |        Manajemen State dengan GetX             |  []  |    [Link Github](https://github.com/05rahmatulloh/Laprak/tree/all) |
 | 12 |  | 08           |        UTS             |     |    [Link Github](https://github.com/05rahmatulloh/Laprak/tree/all) |\
 | 13 | 05/11/2025 | 08           |        	Akses Lokasi dengan GPS di Flutter             |  [Laprak13](https://drive.google.com/file/d/1UEmID0icD7bg-s4Zj5nmKfq3CTQXyF67/view?usp=drive_link)   |    [Link Github](https://github.com/05rahmatulloh/Laprak/tree/all) |
-| 14 | 05/11/2025 | 08           |        	Operasi CRUD          |  |    [Link Github](https://github.com/05rahmatulloh/Laprak/tree/all) |
+| 14 | 05/11/2025 | 08           |        	Operasi CRUD          | [Laprak14](https://drive.google.com/file/d/1v071yvy991cFAM7gYCGEwj21iWa7NwES/view?usp=drive_link) |    [Link Github](https://github.com/05rahmatulloh/Laprak/tree/all) |
 
